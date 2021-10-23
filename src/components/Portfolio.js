@@ -26,7 +26,7 @@ function Portfolio() {
     <img src={Employee} class="card-img-top" alt="employee-tracker"/>
       <div className="card-body">
         <h5 className="text-danger">Employee Management System</h5>
-        <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <p className="card-text">E-commerce.</p>
         <a href="https://drive.google.com/file/d/1zwGij17UazWofwvYQ2Q_x98jWppGb_UU/view?usp=sharing" class="btn btn-primary">Video Link</a>
       </div>
     </div>
@@ -36,7 +36,7 @@ function Portfolio() {
     <img src={Keyboard} class="card-img-top" alt="keyboard-battle"/>
       <div className="card-body">
         <h5 className="text-danger">Keyboard Battle</h5>
-        <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <p className="card-text">This app was created using express, node, handlebars and REST APIs. It allows two users to have a typing contest.</p>
         <a href="https://keyboardbattle.herokuapp.com/" class="btn btn-primary">Heroku Link</a>
       </div>
     </div>
@@ -44,9 +44,9 @@ function Portfolio() {
   <div className="col-lg-4 col-md-6 col-sm-12">
     <div className="bg-dark">
     <img src={Notetaker} class="card-img-top" alt="note-taker"/>
-      <div className="text-danger">
-        <h5 className="card-title">Special title treatment</h5>
-        <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      <div className="card-body">
+        <h5 className="text-danger">Note Taker</h5>
+        <p className="card-text">This app allows the users to take notes and save them.</p>
         <a href="https://infinite-reef-21390.herokuapp.com/notes" class="btn btn-primary">Heroku Link</a>
       </div>
     </div>
@@ -66,7 +66,7 @@ function Portfolio() {
     <img src={Project} class="card-img-top" alt="professor-gif"/>
       <div className="card-body">
         <h5 className="text-danger">Professor Gif Project</h5>
-        <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <p className="card-text">This app was created using HTML, CSS, JavaScript and Third party APis. It allows the users to find the definition of any word and its corresponding gif.</p>
         <a href="https://liladobe.github.io/professor-gif/" class="btn btn-primary">GitHub</a>
       </div>
     </div>
