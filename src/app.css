@@ -1,0 +1,14 @@
+body {
+    background-color: black !important;
+    justify-content: center;
+    text-align: center;
+}
+
+footer {
+    font-size: 30px;
+}
+
+a {
+    margin-right: 20px;
+}
+

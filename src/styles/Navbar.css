@@ -1,0 +1,21 @@
+header {
+    background-color: crimson;
+    color: ghostwhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    display: flex;
+    justify-content: right;
+    padding-right: 20px;
+}
+
+ul {
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    list-style: none;
+    width: 100%;
+}

@@ -1,16 +1,16 @@
 import React from "react";
 import "../styles/Header.css";
-// import 'bootstrap/dist/css/bootstrap.min.css';
-
-
-
 
 function Header() {
     return (
-        <header className="header">
-            <h1>Jonathan Bokungu</h1>
-        </header>
-    )
+
+        <div className="text-center">
+            <h1>React Portfolio</h1>
+        </div>
+       
+
+
+    );
 }
 
 export default Header;
