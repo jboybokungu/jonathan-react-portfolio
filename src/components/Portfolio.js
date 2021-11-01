@@ -18,6 +18,7 @@ function Portfolio() {
         <h5 className="text-danger">Progressive Budget</h5>
         <p className="card-text">This app was created with MongoDB/Mongoose, and it allows the users to manage their budget online and offline.</p>
         <a href="https://jonathan-budget-tracker001.herokuapp.com/" class="btn btn-primary">Heroku Link</a>
+        <a href="https://github.com/jboybokungu/offline-budget-tracker-" class="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
@@ -28,6 +29,7 @@ function Portfolio() {
         <h5 className="text-danger">Employee Management System</h5>
         <p className="card-text">E-commerce.</p>
         <a href="https://drive.google.com/file/d/1zwGij17UazWofwvYQ2Q_x98jWppGb_UU/view?usp=sharing" class="btn btn-primary">Video Link</a>
+        <a href="https://github.com/jboybokungu/e-commerce-back-end" class="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
@@ -38,6 +40,7 @@ function Portfolio() {
         <h5 className="text-danger">Keyboard Battle</h5>
         <p className="card-text">This app was created using express, node, handlebars and REST APIs. It allows two users to have a typing contest.</p>
         <a href="https://keyboardbattle.herokuapp.com/" class="btn btn-primary">Heroku Link</a>
+        <a href="https://github.com/jboybokungu/keyboard-battle" class="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
@@ -48,6 +51,7 @@ function Portfolio() {
         <h5 className="text-danger">Note Taker</h5>
         <p className="card-text">This app allows the users to take notes and save them.</p>
         <a href="https://infinite-reef-21390.herokuapp.com/notes" class="btn btn-primary">Heroku Link</a>
+        <a href="https://github.com/jboybokungu/note-taker" class="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
@@ -58,6 +62,7 @@ function Portfolio() {
         <h5 className="text-danger">Password Generator</h5>
         <p className="card-text">Using mainly JavaScript, this allows the users to generate random passwords.</p>
         <a href="https://jboybokungu.github.io/jonathan-password/" class="btn btn-primary">GitHub</a>
+        <a href="https://github.com/jboybokungu/jonathan-password" class="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
@@ -68,6 +73,7 @@ function Portfolio() {
         <h5 className="text-danger">Professor Gif Project</h5>
         <p className="card-text">This app was created using HTML, CSS, JavaScript and Third party APis. It allows the users to find the definition of any word and its corresponding gif.</p>
         <a href="https://liladobe.github.io/professor-gif/" class="btn btn-primary">GitHub</a>
+        <a href="https://github.com/LilAdobe/professor-gif" class="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
