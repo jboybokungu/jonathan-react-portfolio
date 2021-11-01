@@ -3,8 +3,19 @@ p {
     font-size: 24px;
 }
 
-img {
-    border-radius: 25%;
-    width: 50%;
-    margin-bottom: 20px ;
+.image-container {
+    height: 240px;
+    width: 200px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 16px;
+    margin: 20px;
+}
+.image-container img {
+    width: 100%;
+    height: auto;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    left: 0;
 }

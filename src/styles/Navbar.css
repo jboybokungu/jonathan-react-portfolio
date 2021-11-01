@@ -19,3 +19,16 @@ ul {
     list-style: none;
     width: 100%;
 }
+
+
+.navbar-container a,
+.navbar-container a:link,
+.navbar-container a:visited,
+.navbar-container a:hover,
+.navbar-container a:active {
+    margin-right: 20px;
+    color: white;
+}
+.navbar-container a:hover {
+    text-decoration: none;
+}
