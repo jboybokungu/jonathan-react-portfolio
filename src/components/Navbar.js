@@ -14,7 +14,7 @@ function Navbar(props) {
                     <a className="nav-ref" onClick={() => props.setPage('Portfolio')} href="#portfolio">Projects</a>
                 </li>
                 <li className="navbar3">
-                    <a className="nav-ref" onClick={() => props.setPage('Resume')} href="resume/resume.pdf">Resume</a>
+                    <a className="nav-ref" onClick={() => props.setPage('Resume')} href="resume/resume1.pdf">Resume</a>
                 </li>
                 <li className="navbar3">
                     <a className="nav-ref" onClick={() => props.setPage('Contact')} href="#contact">Contact</a>
